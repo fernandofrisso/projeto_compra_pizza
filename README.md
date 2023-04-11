@@ -1,10 +1,10 @@
 # projeto_compra_pizza
 Projeto com a finalidade de criar um e-commerce de venda de pizzas
 
-#Tecnologias usadas:
+## Tecnologias usadas:
 
-- HTML;
-- CSS;
-- JAVASCRIPT
+- 'HTM'L;
+- 'CSS';
+- 'JAVASCRIPT'.
 
 
